@@ -380,6 +380,23 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.service-image {
+    z-index: 100;
+    position: absolute;
+    left: 0;
+    width: 120px;
+    height: 120px;
+    margin-left: 0;
+    border: 4px solid #08ddff;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #0d58ff;
+}
+
+
+
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -662,6 +679,7 @@ section h3.section-subheading {
     text-align: center;
 }
 
+
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
@@ -768,6 +786,14 @@ footer span.copyright {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
 }
+
+span.img-copyrights {
+    text-transform: lowercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50%;
+}
+
 
 footer ul.quicklinks {
     margin-bottom: 0;
