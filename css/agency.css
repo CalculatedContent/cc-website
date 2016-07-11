@@ -931,6 +931,11 @@ body {
     webkit-tap-highlight-color: #0fddff;
 }
 
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
 
 
-
+.carousel-nav {
+    cursor: pointer;
+}
