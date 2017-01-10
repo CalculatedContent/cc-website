@@ -318,7 +318,7 @@ header .intro-text .intro-heading {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
-        background: rgba(00, 10, 20, 0.4);
+        background: rgba(00, 00,00,00);
     }
 
     header .intro-div {
